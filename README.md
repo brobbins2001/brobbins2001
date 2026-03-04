@@ -11,12 +11,13 @@ I like making things, be it software or hardware.
 
 #### 🔭 What I've Been Working On
 
-- 🗺️ **Moped Maps** — A mapping web application built with TypeScript & Node.js
-- 🐺 **WolfQuest Camera Smoothing Mod** — A C# mod for WolfQuest to smooth out camera movement
-- 🌱 **The Sapling LECA Mod** — A C# game mod for The Sapling
-- 🚀 **Elite: Dangerous Carrier Trader Revive** — Reviving & improving the EDCT fleet carrier trading tool (Java)
+- 🚀 **Elite Dangerous Carrier Trade Network** — A custom-built website that listens to the EDDN and automatically finds unnatural trades
 - ⛏️ **BuildCraft 1.21.1** — Porting the BuildCraft Minecraft mod to modern versions (Java)
-- 🌐 **USAFE-US Front** — A JavaScript web application frontend
+- 🌐 **uSafeUS**
+- 🛰️ **MechJeb 2 Raster Prop Monitor Feature Parity** — A significant rewrite of RPM to include a FAR more comprehensive MJ2 interface achieving feature parity with MechJeb 2's own IMGUI interface
+- 🌍 **KSRSS as a Secondary System** — Does what it says on the tin
+- 🎵 **Spleeter** — A website wrapper/web service for stem separating WAV and MP3 files *(dead project, but it did work and was cool)*
+- 🛒 **[Seven Acre Design](https://www.sevenacredesign.com/)** — Storefront
 
 ---
 
