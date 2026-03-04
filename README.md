@@ -1,14 +1,31 @@
 ### Hi there 👋, my name is Bryan
+
 ![](https://i.ibb.co/NpfVfV2/ezgif-2-0d1b1274ef.gif)
 
 I like making things, be it software or hardware.
 
-Skills: PYTHON / FLASK / SELENIUM / HTML / CSS
+#### 🛠️ Skills & Technologies
 
-- 🔭 I’m currently working on spleeter.io 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=brobbins2001)  
+**Languages:** Python · JavaScript · TypeScript · C# · Java · HTML · CSS  
+**Frameworks & Tools:** Flask · Node.js · Selenium · Unity Modding · Minecraft Forge
+
+#### 🔭 What I've Been Working On
+
+- 🗺️ **Moped Maps** — A mapping web application built with TypeScript & Node.js
+- 🐺 **WolfQuest Camera Smoothing Mod** — A C# mod for WolfQuest to smooth out camera movement
+- 🌱 **The Sapling LECA Mod** — A C# game mod for The Sapling
+- 🚀 **Elite: Dangerous Carrier Trader Revive** — Reviving & improving the EDCT fleet carrier trading tool (Java)
+- ⛏️ **BuildCraft 1.21.1** — Porting the BuildCraft Minecraft mod to modern versions (Java)
+- 🌐 **USAFE-US Front** — A JavaScript web application frontend
+
+---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=brobbins2001)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=brobbins2001&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=brobbins2001)  
 
-![Profile views](https://gpvc.arturio.dev/brobbins2001)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=brobbins2001&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=brobbins2001)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brobbins2001)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Profile views](https://komarev.com/ghpvc/?username=brobbins2001)
